@@ -1,3 +1,8 @@
+# Ignore .env file
 .env
+
+# Ignore SQLite database file
 db.sqlite3
+
+# Ignore virtual environment
 env/
